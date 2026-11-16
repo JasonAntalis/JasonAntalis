@@ -1,10 +1,4 @@
+$$\Huge\text{Jason}\ \color{#BFA06A}\textit{Antalis}$$
 
-$$
-\color{#8A8A8A}{\tiny\text{S O F T W A R E \quad E N G I N E E R}}
-$$
+$$\color{#BFA06A}\large\text{——}\quad\textit{A Standard Of My Own}\quad\text{——}$$
 
-$$
-\Huge{\text{Jason}}\ \color{#BFA06A}{\Huge{\textit{Antalis}}}
-$$
-
-<p> <em>—— &nbsp; A Standard Of My Own &nbsp; ——</em> </p>
