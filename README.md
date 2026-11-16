@@ -7,6 +7,4 @@ $$
 \Huge{\text{Jason}}\ \color{#BFA06A}{\Huge{\textit{Antalis}}}
 $$
 
-$$
-\color{#BFA06A}{\large{\text{——}\quad\textit{A Standard Of My Own}\quad\text{——}}}
-$$
+<p> <em>—— &nbsp; A Standard Of My Own &nbsp; ——</em> </p>
