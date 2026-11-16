@@ -1,9 +1,9 @@
 <div align="center">
 
-<p> <sub><sup><strong> S O F T W A R E &nbsp; E N G I N E E R </strong></sup></sub> </p>
+<sup> S O F T W A R E   E N G I N E E R </sup>
 
-<h1> Jason <span style="color:#BFA06A"><i>Antalis</i></span> </h1>
+# Jason <span style="color:#BFA06A">_Antalis_</span>
 
-<p> <span style="color:#BFA06A; font-size:16px"> <em>—— &nbsp; A Standard Of My Own &nbsp; ——</em> </span> </p>
+<p> <em>—— &nbsp; A Standard Of My Own &nbsp; ——</em> </p>
 
-<br>
+</div>
