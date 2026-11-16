@@ -1,4 +1,9 @@
-$$\color{#8A8A8A}\tiny\mathrm{S\ O\ F\ T\ W\ A\ R\ E}\qquad\mathrm{E\ N\ G\ I\ N\ E\ E\ R}$$
-$$\Huge\text{Jason}\ \color{#BFA06A}\textit{Antalis}$$
+<div align="center">
 
-$$\color{#BFA06A}\large\text{——}\quad\textit{A Standard Of My Own}\quad\text{——}$$
+<p> <sub><sup><strong> S O F T W A R E &nbsp; E N G I N E E R </strong></sup></sub> </p>
+
+<h1> Jason <span style="color:#BFA06A"><em>Antalis</em></span> </h1>
+
+<p> <span style="color:#BFA06A; font-size:16px"> <em>—— &nbsp; A Standard Of My Own &nbsp; ——</em> </span> </p>
+
+<br>
