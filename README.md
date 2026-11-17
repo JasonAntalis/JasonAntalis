@@ -1,12 +1,9 @@
-<div align="center">
-  <a href="https://rolex.com">
-    <img src="./Title.png" alt="Jason Antalis" />
-  </a>
-</div>
+# J A S O N  A N T A L I S
 
-$$\color{#8A8A8A}{\tiny\text{S O F T W A R E \quad E N G I N E E R}}$$
+<sub>S O F T W A R E   E N G I N E E R</sub>
 
-$$\Huge\text{Jason}\ \color{#BFA06A}\textit{Antalis}$$
-
-$$\color{#BFA06A}\large\text{——}\quad\textit{A Standard Of My Own}\quad\text{——}$$
+<br> 
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=24&duration=4000&pause=1500&color=C9A227&center=true&vCenter=true&width=420&height=40&lines=A+Standard+Of+My+Own" alt="A Standard Of My Own" />
+<br> 
+<img src="https://img.shields.io/badge/-%20-C9A227?style=flat-square&labelColor=000000" height="2" width="120" />
 
